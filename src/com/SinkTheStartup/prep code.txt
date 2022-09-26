@@ -1,0 +1,13 @@
+We need 3 classes:-
+
+StartupBust (The Game Class)
+Makes Startups, gets user input, plays until all Startups are dead.
+creates and play with (Startup Class)
+uses for player input and to make Startup locations (GameHelper Class)
+
+Startup (The actual Startup object)
+Startup know their name, location, and how to check a user guess for a match.
+
+GameHelper (The helper class)
+It knows how to accept user command-line input, and make Startup locations.
+
