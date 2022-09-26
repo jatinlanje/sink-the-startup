@@ -1,7 +1,7 @@
 # Sink-The-Startup
 
 GOAL:
-Sink all the Startups in the fewest number og guesses. You're given a rating level based on how well you perform.
+Sink all the Startups in the fewest number of guesses. You're given a rating level based on how well you perform.
 
 SET UP:
 When the game program is launched, the computer places three Startups, randomly, on the virtual 7x7 grid. When that's complete, the game asks for your first guess.
