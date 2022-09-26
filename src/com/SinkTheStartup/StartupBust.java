@@ -11,18 +11,18 @@ public class StartupBust {
     private void setUpGame() {
         // first make some Startups and give them locations
         Startup one = new Startup(); //Startup object
-        one.setName("poniez"); //set a name
+        one.setName("dazo"); //set a name
         Startup two = new Startup();
-        two.setName("hacqi");
+        two.setName("stayzilla");
         Startup three = new Startup();
-        three.setName("cabista");
+        three.setName("zoomo");
         startups.add(one); //add Startup to startups(ArrayList)
         startups.add(two);
         startups.add(three);
 
         //brief instructions for user
         System.out.println("Your goal is to sink three Startups.");
-        System.out.println("poniez, hacqi, cabista");
+        System.out.println("dazo, stayzilla, zoomo");
         System.out.println("Try to sink them all in the fewest number of guesses");
 
         for (Startup startup : startups) { //repeat with each of the Startup objects in the startups List
