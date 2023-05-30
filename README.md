@@ -1,4 +1,4 @@
-# Sink-The-Startup
+# sink-the-startup
 
 GOAL:
 Sink all the Startups in the fewest number of guesses. You're given a rating level based on how well you perform.
